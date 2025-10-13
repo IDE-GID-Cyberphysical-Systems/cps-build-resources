@@ -11,8 +11,8 @@
 |10kΩ Potentiometer|Rotary dial |RS|729-3599|
 
 ### 1. Reflective photosensor
-![Photosensor in packaging](images/IMG_0383.jpg)
-![Photosensor](images/IMG_0384.jpg)
+<img src="images/IMG_0383.jpg" width="250">
+<img src="images/IMG_0384.jpg" width="250">
 
 
 **Voltage range**
