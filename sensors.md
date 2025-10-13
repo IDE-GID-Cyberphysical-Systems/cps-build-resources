@@ -7,10 +7,11 @@
 |[Linear Hall Effect](#linear-hall-effect-sensors) |Magnetic field  |RS|753-2002|
 |[Tactile Switch](#tactile-switches) |Momentary pressing |RS|161-3779|
 |[Toggle Switch](#toggle-switches)|Holds position |RS|448-0747|
-|[Optical Switch](#optical-switches) || RS|219-2533, 708-5547|
+|[Optical Switch](#optical-switches) |Light emitter and sensor to detect if light path is blocked| RS|219-2533|
 |[Potentiometer](#potentiometer)|Rotary dial |RS|729-3599|
-|[Ultrasonic Distance](#ultrasonic-distance-sensor) | Distance from sensor up to 4m | Rapid | 75-0427 |
-
+|[Ultrasonic Distance](#ultrasonic-distance-sensor) | Distance up to 4m | Rapid | 75-0427 |
+|[Tilt Switch](#tilt-switch)| Detects if at an angle of single axis | RS | 361-5093 |
+|Accelerometer | Acceleration on 3 axes | Pimoroni | ADA2809 |
 
 ### Reflective photosensor
 [RS guide to photoelectric sensors](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/photoelectric-sensors-guide)
@@ -32,21 +33,16 @@
 ### Optical Switches
 [RS guide to photoelectric sensors](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/photoelectric-sensors-guide)
 
-**P72**
 
-<img src="images/optical_switch_1.png" width="250">
+
+<img src="images/optical_switch_1.png" width="250">  
 <img src="images/optical_switch_2.png" width="250">
 
-**TCST 1202**
-
-<img src="images/optical_switch_3.png" width="250">
-<img src="images/optical_switch_4.png" width="250">
 
 **Voltage range**
 : 5V
 
 **Datasheets**
-* [Optical Switch (TCST 1202) Datasheet](https://docs.rs-online.com/80d3/0900766b80e30951.pdf)  
 * [Optical Switch (P72) Datasheet](https://docs.rs-online.com/bb59/0900766b8151e488.pdf)
 
 **Pin Out**
@@ -110,8 +106,8 @@ Hall effect sensors detect the strength and direction of a magnetic field.
 
 
 ### Potentiometer
-[What is a Potentiometer?](https://www.etechnophiles.com/what-is-a-potentiometer/#google_vignette)
-<img src="images/POT_1.png" width="250">
+[What is a Potentiometer?](https://www.etechnophiles.com/what-is-a-potentiometer/#google_vignette)  
+<img src="images/POT_1.png" width="250">    
 <img src="images/POT_2.png" width="250">
 
 
@@ -138,3 +134,27 @@ Detect objects 30mm to 4m away, best within 30 degree angle.
 
 **Datasheet**
 [Grove ultrasonic ranger](https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/)
+
+
+## Tilt Switch  
+Detects if sensor is tilted up or down on a singe axis.
+
+**Voltage range**
+: <24V
+
+**Datasheet**
+[Tilt switch datasheet](https://docs.rs-online.com/3521/0900766b8066cdef.pdf)
+
+
+## Accelerometer
+Detects an increase or decrease in motion across three axes. 
+
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/028/591/small360/sensors_2809_top_ORIG.jpg?1447888799" width="250">
+
+[Adafruit tutorial and library documentation.](https://learn.adafruit.com/adafruit-lis3dh-triple-axis-accelerometer-breakout/overview)
+
+**Voltage range**
+: 3.3-5V
+
+**Datasheet**
+: [Documentation on Adafruit](https://learn.adafruit.com/adafruit-lis3dh-triple-axis-accelerometer-breakout/downloads)
