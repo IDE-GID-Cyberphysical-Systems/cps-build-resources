@@ -14,8 +14,8 @@
 |Accelerometer | Acceleration on 3 axes | Pimoroni | ADA2809 |
 
 ### Reflective photosensor
-[RS guide to photoelectric sensors](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/photoelectric-sensors-guide)
-<img src="images/IMG_0383.jpg" width="250">
+[RS guide to photoelectric sensors](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/photoelectric-sensors-guide)  
+<img src="images/IMG_0383.jpg" width="250">  
 <img src="images/IMG_0384.jpg" width="250">
 
 
