@@ -1,5 +1,5 @@
 
-## Sensors
+# Sensors
 
 |Name |What it Senses |Supplier|Stock Number|
 |-|-|-|-|
@@ -13,7 +13,7 @@
 |[Tilt Switch](#tilt-switch)| Detects if at an angle of single axis | RS | 361-5093 |
 |[Accelerometer](#accelerometer) | Acceleration on 3 axes | Pimoroni | ADA2809 |
 
-### Reflective photosensor
+## Reflective photosensor
 [RS guide to photoelectric sensors](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/photoelectric-sensors-guide)  
 <img src="images/IMG_0383.jpg" width="250">  
 <img src="images/IMG_0384.jpg" width="250">
@@ -30,7 +30,7 @@
 <img src="images/Screenshot 2025-09-24 234941.png" width="250">
 
 
-### Optical Switches
+## Optical Switches
 [RS guide to photoelectric sensors](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/photoelectric-sensors-guide)
 
 
@@ -52,7 +52,7 @@
 
 
 
-### Linear Hall Effect Sensors
+## Linear Hall Effect Sensors
 <img src="images/IMG_0368.jpg" width="250">
 <img src="images/IMG_0369.jpg" width="250">
 
@@ -71,7 +71,7 @@ Hall effect sensors detect the strength and direction of a magnetic field.
 
 
 
-## Buttons and Potentiometers
+## Switches
 
 ### Tactile Switches
 <img src="images/buttons_1.png" width="250">
@@ -105,7 +105,7 @@ Hall effect sensors detect the strength and direction of a magnetic field.
 <img src="images/toggle_switch_pinout.png" width="250">
 
 
-### Potentiometer
+## Potentiometer
 [What is a Potentiometer?](https://www.etechnophiles.com/what-is-a-potentiometer/#google_vignette)  
 <img src="images/POT_1.png" width="250">    
 <img src="images/POT_2.png" width="250">

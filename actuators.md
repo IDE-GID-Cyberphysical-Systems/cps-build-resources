@@ -1,18 +1,19 @@
 
 
-## 2. Motors
+# Actuators
 
 |Name |Supplier|Stock Number|
 |-|-|-|
-|1. Right Angle Geared DC Motor (Yellow) |RS|215-3179|
-|2. DC Motor (Grey)|RS|215-3176|
-|3. 180° Servo Motor|RS|215-3180|
-|4. 360° Servo Motor|RS|238-0407|
-|5. 5V Stepper Motor|RS|107-010|
+|[Right Angle Geared DC Motor (Yellow)](#right-angle-geared-motor-yellow) |RS|215-3179|
+|[DC Motor (Grey)](#dc-motor-grey)|RS|215-3176|
+|[180° Servo Motor](#180-servo-motor)|RS|215-3180|
+|[5V Stepper Motor](#5v-stepper-motor|RS|107-010|
+|Mini Solenoid | | | |
+|H Bridge Driver | | | |
+|[RGB LED](#rgb-led) |Emits light in different colours|RS | 254-5727|
 
-
-### 1. Right Angle Geared Motor (Yellow)
-![text](images/IMG_0385.jpg)
+## Right Angle Geared Motor (Yellow)
+<img src="images/IMG_0385.jpg" width="250">
 
 **Voltage range**
 : 3-6V
@@ -21,12 +22,14 @@
 : [Right Angle Geared Motor (Yellow) Datasheet](https://docs.rs-online.com/43dd/A700000007388281.pdf)
 
 **Pin Out**
-**Note** The terminals of the motor will need to be soldered to wire before use  
-![text](images/IMG_0386.jpg)
+**Note** The terminals of the motor will need to be soldered to wire before use.  
+<img src="images/IMG_0386.jpg" width="250">
 
-### 2. DC Motor (Grey)
-![text](images/IMG_0391.jpg)
-![text](images/IMG_0394.jpg)
+
+## DC Motor (Grey)
+<img src="images/IMG_0391.jpg" width="250">  
+<img src="images/IMG_0394.jpg" width="250">
+
 
 **Voltage Range**
 : 1.5 to 4.5V
@@ -35,11 +38,11 @@
 : [DC Motor (Grey) Datasheet](https://docs.rs-online.com/ac24/A700000007388305.pdf)
 
 **Pin Out** 
-Note The terminals of the motor will need to be soldered to wire before use
+Note The terminals of the motor will need to be soldered to wire before use.
 
 
-### 3. 180° Servo Motor
-![text](Image_assets/IMG_0396.jpg)
+## 180° Servo Motor
+<img src="images/IMG_0396.jpg" width="250">
 
 **Voltage Rnge**
 :  4.8V - 6V
@@ -48,26 +51,12 @@ Note The terminals of the motor will need to be soldered to wire before use
 : [180° Servo Motor Datasheet](https://docs.rs-online.com/d7b7/A700000007388289.pdf)
 
 **Pin Out**  
-![text](images\Screenshot_2025-09-24_235550.png)
+<img src="images/Screenshot_2025-09-24_235550.png" width="250">
 
 
-
-### 4. 360° Servo Motor
-![text](images/IMG_0374.jpg)
-
-**Voltage Range**
-: 4.8V - 6V
-
-**Datasheet**
-: [360° Servo Motor Datasheet](https://docs.rs-online.com/f4b2/A700000008500241.pdf)
-
-**Pin Out**  
-![text](Image_assets\screenshot_1.png)
-
-
-### 5. 5V Stepper Motor
-![text](Image_assets/IMG_0389.jpg)
-![text](Image_assets/IMG_0390.jpg)
+## 5V Stepper Motor
+<img src="images/IMG_0389.jpg" width="250">  
+<img src="images/IMG_0390.jpg" width="250">
 
 **Voltage Range**
 : 5V
@@ -78,19 +67,9 @@ Note The terminals of the motor will need to be soldered to wire before use
 
 
 
-
-
-
-
-## 3. Output Devices
-
-|Name |What it Does|Supplier|Stock Number|
-|-|-|-|-|
-|1. RGB LED |Emits light in different colours|RS|254-5727|
-
-### 1. RGB LED
-![LED](images/LED_1.png)
-![text](images/IMG_0388.jpg)
+## RGB LED
+<img src="images/LED_1.png" width="250"> 
+<img src="images/IMG_0388.jpg" width="250">
 
 **Voltage range**
 : 2V
@@ -101,8 +80,7 @@ Note The terminals of the motor will need to be soldered to wire before use
 **Pin Out**
 : [Ref.](https://www.circuitbread.com/tutorials/how-rgb-leds-work-and-how-to-control-color)
 
-![LED pinout](images/LED_pinout.png)
-
+<img src="images/LED_pinout.png" width="250">
 
 
 **Useful Websites**
