@@ -2,12 +2,12 @@
 
 # Actuators
 
-|Name |Supplier|Stock Number|
-|-|-|-|
-|[Right Angle Geared DC Motor (Yellow)](#right-angle-geared-motor-yellow) |RS|215-3179|
-|[DC Motor (Grey)](#dc-motor-grey)|RS|215-3176|
-|[180° Servo Motor](#180-servo-motor)|RS|215-3180|
-|[5V Stepper Motor](#5v-stepper-motor|RS|107-010|
+|Name |What It Does | Supplier|Stock Number|
+|-|-|-|-|
+|[Right Angle Geared DC Motor (Yellow)](#right-angle-geared-motor-yellow) |Motor that continuously turns with integrated gearbox |RS|215-3179|
+|[DC Motor (Grey)](#dc-motor-grey)|Motor that continuously turns without gearbox|RS|215-3176|
+|[180° Servo Motor](#180-servo-motor)|Motor that rotates to specifc location within 180°| RS|215-3180|
+|[5V Stepper Motor](#5v-stepper-motor)|Motor that continously turns with control| RS|107-010|
 |Mini Solenoid | | | |
 |H Bridge Driver | | | |
 |[RGB LED](#rgb-led) |Emits light in different colours|RS | 254-5727|
