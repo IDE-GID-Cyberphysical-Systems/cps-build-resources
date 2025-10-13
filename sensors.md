@@ -11,7 +11,7 @@
 |[Potentiometer](#potentiometer)|Rotary dial |RS|729-3599|
 |[Ultrasonic Distance](#ultrasonic-distance-sensor) | Distance up to 4m | Rapid | 75-0427 |
 |[Tilt Switch](#tilt-switch)| Detects if at an angle of single axis | RS | 361-5093 |
-|Accelerometer | Acceleration on 3 axes | Pimoroni | ADA2809 |
+|[Accelerometer](#accelerometer) | Acceleration on 3 axes | Pimoroni | ADA2809 |
 
 ### Reflective photosensor
 [RS guide to photoelectric sensors](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/photoelectric-sensors-guide)  
