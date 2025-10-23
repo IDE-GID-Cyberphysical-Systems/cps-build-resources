@@ -7,7 +7,7 @@
 |[Right Angle Geared DC Motor (Yellow)](#right-angle-geared-motor-yellow) |Motor that continuously turns with integrated gearbox |RS|215-3179|
 |[DC Motor (Grey)](#dc-motor-grey)|Motor that continuously turns without gearbox|RS|215-3176|
 |[180° Servo Motor](#180-servo-motor)|Motor that rotates to specifc location within 180°| RS|215-3180|
-|[5V Stepper Motor](#5v-stepper-motor)|Motor that continously turns with control| RS|107-010|
+|[5V Stepper Motor with driver](#5v-stepper-motor)|Motor that continously turns with control| RS|184-5109|
 |Mini Solenoid | | | |
 |H Bridge Driver | | | |
 |[RGB LED](#rgb-led) |Emits light in different colours|RS | 254-5727|
@@ -62,7 +62,7 @@ Note The terminals of the motor will need to be soldered to wire before use.
 : 5V
 
 **Datasheet**
-[5V Stepper Motor Datasheet](https://docs.rs-online.com/be99/A700000011732010.pdf)
+[5V Stepper Motor Datasheet](https://wiki.seeedstudio.com/Gear_Stepper_Motor_Driver_Pack/)
 
 
 
