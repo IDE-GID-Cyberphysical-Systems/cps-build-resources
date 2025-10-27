@@ -8,7 +8,7 @@
 |[DC Motor (Grey)](#dc-motor-grey)|Motor that continuously turns without gearbox|RS|215-3176|
 |[180° Servo Motor](#180-servo-motor)|Motor that rotates to specifc location within 180°| RS|215-3180|
 |[5V Stepper Motor with driver](#5v-stepper-motor)|Motor that continously turns with control| RS|184-5109|
-|Mini Solenoid | | | |
+|Mini Solenoid |Small rod that moves back and forth| RS | 288-3640  |
 |H Bridge Driver | | | |
 |[RGB LED](#rgb-led) |Emits light in different colours|RS | 254-5727|
 
